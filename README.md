@@ -8,7 +8,9 @@
 - 🔭 I’m currently working on **in cms developed in laravel.**
 
 - 🌱 I’m currently learning **ruby on rails and java-based environments such as angular, vue and react.**
+- 🌱 I am currently taking **Oracle next education training in the backend specialty.**
 
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
